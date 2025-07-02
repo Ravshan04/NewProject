@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Ravshanboy");
+            while (true) 
+            {
+                Console.WriteLine("Hello, Ravshanboy");
+            }    
         }
     }
 }
